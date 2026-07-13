@@ -1,0 +1,38 @@
+[
+  {
+    "planId": "FREE",
+    "limits": {
+      "projects": 2,
+      "teamMembers": 3
+    },
+    "features": [
+      "basic_reports"
+    ]
+  },
+  {
+    "planId": "PRO",
+    "limits": {
+      "projects": 20,
+      "teamMembers": 25
+    },
+    "features": [
+      "basic_reports",
+      "exports",
+      "integrations"
+    ]
+  },
+  {
+    "planId": "BUSINESS",
+    "limits": {
+      "projects": -1,
+      "teamMembers": 100
+    },
+    "features": [
+      "basic_reports",
+      "exports",
+      "integrations",
+      "audit_log",
+      "priority_support"
+    ]
+  }
+]

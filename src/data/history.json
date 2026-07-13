@@ -1,0 +1,52 @@
+[
+  {
+    "subscriptionId": "SUB-900",
+    "action": "Subscription Created",
+    "date": "2026-07-01T00:00:00Z"
+  },
+  {
+    "subscriptionId": "SUB-900",
+    "action": "Activated",
+    "date": "2026-07-08T00:00:00Z"
+  },
+  {
+    "subscriptionId": "SUB-900",
+    "action": "Plan Upgraded",
+    "fromPlan": "PRO",
+    "toPlan": "BUSINESS",
+    "status": "active",
+    "version": 5,
+    "effective": "Immediately",
+    "date": "2026-07-13T10:30:07.135Z"
+  },
+  {
+    "subscriptionId": "SUB-900",
+    "action": "Downgrade Scheduled",
+    "fromPlan": "BUSINESS",
+    "toPlan": "PRO",
+    "status": "active",
+    "version": 6,
+    "effective": "Next Billing Period",
+    "date": "2026-07-13T10:38:16.418Z"
+  },
+  {
+    "subscriptionId": "SUB-900",
+    "action": "Downgrade Scheduled",
+    "fromPlan": "BUSINESS",
+    "toPlan": "FREE",
+    "status": "active",
+    "version": 7,
+    "effective": "Next Billing Period",
+    "date": "2026-07-13T10:38:17.488Z"
+  },
+  {
+    "subscriptionId": "SUB-900",
+    "action": "Downgrade Scheduled",
+    "fromPlan": "BUSINESS",
+    "toPlan": "PRO",
+    "status": "active",
+    "version": 8,
+    "effective": "Next Billing Period",
+    "date": "2026-07-13T10:38:19.637Z"
+  }
+]
